@@ -5,6 +5,12 @@
 2. fakhri muhtasib
 3. putra rais hakim
 
+---
+![alt text](photo/image.png) ![alt text](photo/image-1.png) ![alt text](photo/image-2.png) ![alt text](photo/image-4.png) ![alt text](photo/image-5.png) ![alt text](photo/image-6.png) ![alt text](photo/image-7.png)
+---
+eror karena pemilik film sudah di pindahkan
+![alt text](photo/image-3.png) 
+---
 ## I. Glosarium & Istilah Teknis Solidity
 
 Sebelum membedah kode baris demi baris, berikut adalah penjelasan istilah dan tipe data utama yang digunakan dalam kode ini:
