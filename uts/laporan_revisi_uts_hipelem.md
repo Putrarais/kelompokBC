@@ -12,15 +12,15 @@
 ---
 ## Ruang Bukti Ringkasan Video Pengujian
 
-* **Ringkasan Bukti Eksekusi Video:**
-  - [x] **Bukti 1 (Revisi 5.1):** Pendaftaran film dengan genre enum dan konfirmasi output string.
-  <video controls src="vidio/Screen Recording 2026-11-01 215309.mp4" title="Title"></video>
-  - [x] **Bukti 2 (Revisi 5.2):** Tampilan array `listFilmBioskop` pada akun 1 dan akun 2 tidak saling tertimpa.
-  <video controls src="vidio/20261101-1451-54.5173918.mp4" title="Title"></video>
-  - [x] **Bukti 3 (Penguat 5.P1):** Eksekusi `hapusFilm` dan pembaruan array kepemilikan.
-  <video controls src="vidio/Screen Recording 2026-11-01 220501.mp4" title="Title"></video>
-  - [x] **Bukti 4:** Tampilan Logs Event pada terminal Remix IDE (`FilmDitambahkan`, `KepemilikanDipindah`, `FilmDihapus`).
-  <video controls src="vidio/20261101-1506-28.6295336.mp4" title="Title"></video>
+- **Ringkasan Bukti Eksekusi Video:**
+  - [x] **Bukti 1 (Revisi 5.1):** Pendaftaran film dengan genre enum dan konfirmasi output string.  
+        👉 [Tonton Video Bukti 1](vidio/Screen%20Recording%202026-11-01%20215309.mp4)
+  - [x] **Bukti 2 (Revisi 5.2):** Tampilan array `listFilmBioskop` pada akun 1 dan akun 2 tidak saling tertimpa.  
+        👉 [Tonton Video Bukti 2](vidio/20261101-1451-54.5173918.mp4)
+  - [x] **Bukti 3 (Penguat 5.P1):** Eksekusi `hapusFilm` dan pembaruan array kepemilikan.  
+        👉 [Tonton Video Bukti 3](vidio/Screen%20Recording%202026-11-01%20220501.mp4)[cite: 1]
+  - [x] **Bukti 4:** Tampilan Logs Event pada terminal Remix IDE (`FilmDitambahkan`, `KepemilikanDipindah`, `FilmDihapus`).  
+        👉 [Tonton Video Bukti 4](vidio/20261101-1506-28.6295336.mp4)[cite: 1]
 
 ---
 
