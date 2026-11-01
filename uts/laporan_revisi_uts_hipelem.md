@@ -14,24 +14,16 @@
 
 - **Ringkasan Bukti Eksekusi Video:**
   - [x] **Bukti 1 (Revisi 5.1):** Pendaftaran film dengan genre enum dan konfirmasi output string.  
-        👉 [Tonton Video Bukti 1](vidio/Screen%20Recording%202026-11-01%20215309.mp4)
+        ![Demo Bukti 1](gif/Screen%20Recording%202026-11-01%20215309.gif)
   - [x] **Bukti 2 (Revisi 5.2):** Tampilan array `listFilmBioskop` pada akun 1 dan akun 2 tidak saling tertimpa.  
-        👉 [Tonton Video Bukti 2](vidio/20261101-1451-54.5173918.mp4)
+        ![Demo Bukti 2](gif/Screen%20Recording%202026-11-01%20215218.gif)
   - [x] **Bukti 3 (Penguat 5.P1):** Eksekusi `hapusFilm` dan pembaruan array kepemilikan.  
-        👉 [Tonton Video Bukti 3](vidio/Screen%20Recording%202026-11-01%20220501.mp4)[cite: 1]
+        ![Demo Bukti 3](gif/Screen%20Recording%202026-11-01%20220501.gif)
   - [x] **Bukti 4:** Tampilan Logs Event pada terminal Remix IDE (`FilmDitambahkan`, `KepemilikanDipindah`, `FilmDihapus`).  
-        👉 [Tonton Video Bukti 4](vidio/20261101-1506-28.6295336.mp4)[cite: 1]
+        ![Demo Bukti 4](gif/Screen%20Recording%202026-11-01%20220650.gif)
 
 
-- **Ringkasan Bukti Eksekusi Video:**
-  - [x] **Bukti 1 (Revisi 5.1):** Pendaftaran film dengan genre enum dan konfirmasi output string.  
-        [▶ Preview Video 1](https://github.com/Putrarais/kelompokBC/blob/master/uts/vidio/Screen%20Recording%202026-11-01%20215309.mp4?raw=true)
-  - [x] **Bukti 2 (Revisi 5.2):** Tampilan array `listFilmBioskop` pada akun 1 dan akun 2 tidak saling tertimpa.  
-        [▶ Preview Video 2](https://github.com/Putrarais/kelompokBC/blob/master/uts/vidio/20261101-1451-54.5173918.mp4?raw=true)
-  - [x] **Bukti 3 (Penguat 5.P1):** Eksekusi `hapusFilm` dan pembaruan array kepemilikan.  
-        [▶ Preview Video 3](https://github.com/Putrarais/kelompokBC/blob/master/uts/vidio/Screen%20Recording%202026-11-01%20220501.mp4?raw=true)
-  - [x] **Bukti 4:** Tampilan Logs Event pada terminal Remix IDE (`FilmDitambahkan`, `KepemilikanDipindah`, `FilmDihapus`).  
-        [▶ Preview Video 4](https://github.com/Putrarais/kelompokBC/blob/master/uts/vidio/20261101-1506-28.6295336.mp4?raw=true)
+
 
 ---
 
