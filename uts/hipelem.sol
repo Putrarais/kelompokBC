@@ -30,7 +30,7 @@ contract Hipelem {
         bool ada;
     }
 
-    // Struct Tampilan Film Milik Dompet Aktif (satu film = satu blok)
+    // Struct Tampilan Film Milik Alamat Tertentu (satu film = satu blok)
     struct FilmSaya {
         uint256 id;
         string judul;
@@ -253,10 +253,9 @@ contract Hipelem {
         );
     }
 
-    // 8. Tampilkan Detail Lengkap Film Milik Dompet Aktif (dari listFilmBioskop)
-    //    Output per film: id, judul, sutradara, durasiMenit, sinopsis, genreStr
-    function tampilkanFilmDanDurasiSaya() public view returns (FilmSaya[] memory) {
-        uint256[] storage daftar = listFilmBioskop[msg.sender];
+    // 8. Tampilkan Detail Lengkap Film Berdasarkan Alamat Dompet Tertentu
+    function ambilFilmBerdasarkanAlamat(address _pemilik) public view returns (FilmSaya[] memory) {
+        uint256[] storage daftar = listFilmBioskop[_pemilik];
         FilmSaya[] memory hasil = new FilmSaya[](daftar.length);
 
         for (uint256 i = 0; i < daftar.length; i++) {
